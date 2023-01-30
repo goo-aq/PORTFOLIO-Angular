@@ -208,6 +208,12 @@ p {
   background-color: #16a085;
   border-color: #15967d;
 }
+.btn-primary:disabled,
+.btn-primary.disabled {
+  color: #fff;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+}
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
